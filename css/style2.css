@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #f7f7f7;
+  color: #222;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navBar {
+  background: #fff;
+  padding: 10px;
+  /* margin: 70px; */
+  box-shadow: 2px 0px 4px 0px #ccc;
+}
+
+#navBar article {
+  width: 90%;
+  margin: 0 auto;
+  height: inherit;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  flex-basis: 50%;
+  justify-content: flex-start;
+}
+
+.menu {
+  display: flex;
+  flex-basis: 50%;
+  justify-content: flex-end;
+}
+
+#contentBlock article {
+  display: flex;
+  height: 100vh;
+  margin: 20px auto;
+  width: 90%;
+}
+
+.player {
+  flex-basis: 80%;
+  background: #efefef;
+  padding: 10px;
+}
+
+
+.thumbnails {
+  flex-basis: 20%;
+  /* background: #efefef; */
+  padding: 10px;
+}
+.poster img {
+  width: 100%;
+  height: 150px;
+  object-fit: fill;
+}
+
+.thumbnails ul{
+list-style: none;
+}
+
+.thumbnails ul li {
+  margin: 10px;
+  background-color: #efefef87;
+  padding: 10px;
+  border-radius: 0px 0px 2px 2px;
+  cursor: pointer;
+}
+
+.thumbnails h2 {
+  color: #555;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 4px 0;
+  text-transform: capitalize;
+}

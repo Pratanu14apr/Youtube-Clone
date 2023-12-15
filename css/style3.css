@@ -1,0 +1,147 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f7f7;
+  height: 100%;
+  width: 100%;
+}
+
+#navbar article {
+  background: #fff;
+  margin: 0 auto;
+  /* height: inherit; */
+  display: flex;
+  align-items: center;
+  width: 90%;
+}
+.logo {
+  display: flex;
+  flex-basis: 50%;
+  justify-content: flex-start;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 2px solid crimson;
+}
+
+.menu {
+  display: flex;
+  flex-basis: 50%;
+  justify-content: flex-end;
+}
+#content-Block article {
+  /* display: flex;
+  height: 90vh;
+  width: 90%; */
+  margin: 20px auto;
+}
+#content-Block {
+  height: 450vh;
+  width: 90vw;
+  /* border: 2px solid black; */
+  margin-left: 40px;
+  display: flex;
+}
+#content-Block .player {
+  width: inherit;
+  background: #efefef;
+  padding: 10px;
+  border: 1px solid #a2e7a8;
+  /* box-shadow: 1px 1px 1px gray; */
+  height: 470px;
+}
+#content-Block .thumbnails {
+  flex-basis: 20%;
+  padding: 10px;
+}
+.player video {
+  width: 100%;
+  height: 335px;
+}
+.poster img {
+  width: 100%;
+  object-fit: fill;
+  height: 150px;
+}
+.thumbnails ul {
+  list-style: none;
+}
+
+.thumbnails ul li {
+  margin: 10px;
+  background-color: #efefef87;
+  padding: 10px;
+  border-radius: 0 0 2px 2px;
+  cursor: pointer;
+}
+.thumbnails h2 {
+  color: #555;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 4px 0;
+  text-transform: capitalize;
+}
+.c1 {
+  border: 1px solid #609966;
+  margin: 10px;
+  padding: 5px;
+  /* background-color: yellow  ; */
+}
+
+.mern {
+  /* color: #8de86f; */
+}
+.menu {
+  text-transform: capitalize;
+  padding-right: 160px;
+  font-size: 20px;
+  font-weight: bold;
+  /* color: #84e963; */
+}
+
+#rightSide {
+  height: 100px;
+  flex-basis: 80%;
+  flex-direction: column;
+}
+
+#commentBody {
+  width: 745px;
+  height: 75px;
+
+  border: 1px solid #a2e7a8;
+}
+#textArea {
+  position: relative;
+  left: 290px;
+  top: 0px;
+}
+#commentHeader {
+  position: relative;
+  left: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 50%;
+  border-bottom: 1px solid #a4a1a1;
+}
+
+::placeholder {
+  font-size: 15px;
+  position: relative;
+  left: 10px;
+  right: 20px;
+}
+#comInput {
+  position: relative;
+  width: 600px;
+  height: 25px;
+  border-radius: 10px;
+  outline: none;
+  top: 5px;
+}
+#thumb {
+  overflow: scroll;
+  height: 100vh;
+}

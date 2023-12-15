@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #eee;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#mainBlock {
+  height: 100vh;
+  background-color: #fff;
+}
+.flexContainer {
+  display: flex;
+}
+.left {
+  background-color: #3a4b5c;
+  flex-basis: 75%;
+}
+.right {
+  background-color: #883131;
+  flex-basis: 25%;
+  font-size: 12px;
+  padding: 1px 0;
+  color: white;
+}
+
+.videoList {
+  height: 150px;
+  padding: 13px 0;
+  border-bottom: 1px solid rgb(197, 197, 197);
+  margin: 10px;
+  background: lightseagreen;
+  border-radius: 15px;
+}
+
+.right h2 {
+  width: 100%;
+  color: white;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  border-bottom: 3px solid rgb(219, 90, 90);
+  text-align: center;
+}

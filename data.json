@@ -1,0 +1,92 @@
+[
+  {
+    "video_name": "Closer- The Chain Smokers",
+    "video_image": "../images/closer.jpeg",
+    "video_source": "../videos/closer.mp4",
+    "video_description": "Closer is a song by American EDM duo The Chainsmokers featuring Halsey. The song was released to digital retail and streaming formats on July 29, 2016, and impacted radio on August 2, 2016. The song became a commercial success, topping the charts in multiple countries, including Australia, the United Kingdom, and the United States. A music video was released on October 24, 2016.",
+    "category": "Romantic,Love",
+    "Starring": " Alyssa Lynch.",
+    "languages": ["english", "Hindi", "bengali"]
+  },
+  {
+    "video_name": "Despatico",
+    "video_image": "../images/despacito.jpeg",
+    "video_source": "../videos/despacito.mp4",
+    "video_description": "Apart from its nearly unprecedented success, the most remarkable thing about Luis Fonsi and Daddy Yankee’s 2017 global smash hit “Despacito” may be how quickly it came together. Today (Tuesday, March 2), Penguin Random House publishes “Decoding ‘Despacito’: An Oral History of Latin Music,” the latest book by Billboard vice president Leila Cobo, who may be the top Latin music journalist in the U.S.",
+    "category": "relationship  ",
+    "Starring": "Luis Fonsi,Zuleyka Rivera Mendoza,    Daddy Yankee.",
+    "languages": ["spanish", "english", "bengali", "hindi"]
+  },
+  {
+    "video_name": "Ramullo Ramulla",
+    "video_image": "../images/ramulo.jpeg",
+    "video_source": "../videos/Raullo Ramulla.mp4",
+    "video_description": "Ramuloo Ramulaa is an Indian Telugu-language song composed by S. Thaman for the soundtrack of the 2020 action-drama film Ala Vaikunthapurramuloo sung by ...",
+    "category": "Love, frienship",
+    "Starring": " AlluArjun, Pooja Hegde, Tabu, Nivetha Pethuraj,",
+    "languages": ["telegu", "tamil"]
+  },
+  {
+    "video_name": "Buta Bomma",
+    "video_image": "../images/Butta_Bomma.jpeg",
+    "video_source": "../videos/Buta_bomma.mp4",
+    "video_description": "Butta Bomma ( lit. 'Basket doll') is an Indian Telugu-language song by singer Armaan Malik and composed by S. Thaman from the 2020 soundtrack album ",
+    "category": "action,thriller",
+    "Starring": "pooja, allu arjun",
+    "languages": ["tamil", "telegu", "kannada"]
+  },
+  {
+    "video_name": "Ennamo Edo",
+    "video_image": "../images/enamoedo.jpeg",
+    "video_source": "../videos/EnnamoEdo.mp4",
+    "video_description": "Enamo Aedho ( transl. Something random) is a song from the 2011 Tamil film Ko, composed by Harris Jayaraj.",
+    "category": "love, frienship,thriller",
+    "Starring": "Jiiva,Ajmal,Karthika,Piaa Bajpai, Prakash Raj,Kota Srinivasa Rao",
+    "languages": ["Bengali", "Tamil"]
+  },
+  {
+    "video_name": "Kaun_Tujhe",
+    "video_image": "../images/kaun-tujhe.jpeg",
+    "video_source": "../videos/kaun_tujhe.MKV",
+    "video_description": "Kaun Tujhe ( transl. Who Would) is a Hindi song from the soundtrack of the 2016 Hindi Film, M.S. Dhoni: The Untold Story.",
+    "category": "Cricket, love",
+    "Starring": " Sushant Singh Rajput, Kiara Advani, Disha Patani",
+    "languages": ["hindi", "english", "tamil", "telegu", "kannada"]
+  },
+  {
+    "video_name": "Kuch_kuch_hota_hai",
+    "video_image": "../images/kuch_kuch_hota_hai.jpeg",
+    "video_source": "../videos/kuch_kuch_hota_hai.mp4",
+    "video_description": "The title song lyrics of 'Kuch Kuch Hota Hai', starring Shahrukh Khan, Kajol and Rani Mukherjee. Directed by Karan Johar, the music has been composed by ...",
+    "category": "Love, family, Friendship",
+    "Starring": "Shah Rukh Khan,Kajol,Rani Mukerji",
+    "languages": ["hindi", "kannada", "telegu"]
+  },
+  {
+    "video_name": "Oporadhi",
+    "video_image": "../images/opradhi.jpeg",
+    "video_source": "../videos/Oporadhi.mp4",
+    "video_description": "O Maiya re maiya re tui oporadhi re full song lyrics with English Translation and real meaning explanation, The song is composed by Ankur Mahamud while Lyrics is penned by Arman Alif, Arman Alif himself gave his soulful voice for this wonderful sad song which is now every failed lovers’ hymn. The music is available on Eagle Music.",
+    "category": "Heart Break, Break Up, Love",
+    "Starring": " Anan, Sumaiya Anjum, Tuhin Chowdhury",
+    "languages": ["bengali", "hindi"]
+  },
+  {
+    "video_name": "tere Sang Yaara",
+    "video_image": "../images/tere_sang_yaara.jpeg",
+    "video_source": "../videos/Tere Sang Yaara.mp4",
+    "video_description": "Tere Sang Yaara Lyrics (Bollywood Song) from Rustom starring Akshay Kumar and Ileana D'Cruz. It is Atif Aslam's latest romantic soft song composed by ARKO & ...",
+    "category": "Love, crime-thriller",
+    "Starring": "Akshay kumar and Illiana D'cruz",
+    "languages": ["hindi", "english", "tamil", "telegu", "kannada"]
+  },
+  {
+    "video_name": "Bolbo Tomay Ajke Ami",
+    "video_image": "../images/bolbo_tomay.jpeg",
+    "video_source": "../videos/bolbo tomay aj k ami.mp4",
+    "video_description": "Listen to Bolbo Tomay Ajke Aami online. Bolbo Tomay Ajke Aami is a Bengali language song and is sung by Manu. Bolbo Tomay Ajke Aami, from the album Sathi, ...",
+    "category": "Love",
+    "Starring": "Jeet, Priyanka Trivedi, Ranjit Mullick",
+    "languages": ["bengali"]
+  }
+]
